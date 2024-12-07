@@ -1,6 +1,8 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
+  "name": "$SAFECOIN",
+  "symbol": "SCOIN",
+  "description": "$SAFECOIN is the meme coin built on trust and transparency, offering a secure and reliable investment in the crypto space. Designed to eliminate fears of rug pulls, SCOIN is backed by a transparent team and a commitment to putting the community first. With a mission to make crypto safer and more trustworthy, $SAFECOIN isn’t just another token—it’s a symbol of integrity and confidence.
+
+Invest smart. Invest safe. Join the $SAFECOIN movement today!",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
